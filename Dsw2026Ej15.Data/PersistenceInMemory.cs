@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using Dsw2026Ej15.Domain;
+using Dsw2026Ej15.Domain.Entities;
 
 namespace Dsw2026Ej15.Data
 {
